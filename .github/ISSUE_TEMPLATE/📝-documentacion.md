@@ -2,7 +2,7 @@
 name: "📝 Documentación"
 about: Crear, actualizar o corregir documentación técnica, manuales o guías.
 title: "[DOCS] <Título de la documentación>"
-labels: ["documentation"]
+labels: Documentación
 assignees: ''
 
 ---
