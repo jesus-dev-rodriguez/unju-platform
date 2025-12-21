@@ -9,6 +9,15 @@
 # 🏗 build:    Cambios en el sistema de construcción o dependencias
 # ---------------------
 
+# --- EJEMPLOS DE USO ---
+# feat(auth): 🚀 agregar validación de dos factores
+# fix(api): 🛠 corregir error 500 al guardar usuario
+# improve(ui): ⚡ optimizar carga de imágenes en el home
+# docs(readme): 📝 añadir guía de instalación rápida
+# test(login): 🧪 añadir pruebas para contraseña incorrecta
+# build(deps): 🏗 actualizar versión de react a v18
+# ---------------------
+
 # Explicación detallada del "por qué" y "cómo" (opcional):
 
 
