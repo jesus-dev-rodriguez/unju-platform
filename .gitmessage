@@ -1,0 +1,15 @@
+<tipo>(<alcance>): <emoji> <resumen corto>
+
+# --- GUÍA DE TIPOS ---
+# 🚀 feat:     Nueva funcionalidad
+# 🛠 fix:      Corrección de un error
+# ⚡ improve:  Mejora de rendimiento o refactor
+# 📝 docs:     Cambios en documentación
+# 🧪 test:     Añadir o corregir pruebas
+# 🏗 build:    Cambios en el sistema de construcción o dependencias
+# ---------------------
+
+# Explicación detallada del "por qué" y "cómo" (opcional):
+
+
+# Referencia a la Issue (ej: Closes #123):
