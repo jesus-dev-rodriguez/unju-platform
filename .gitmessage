@@ -1,21 +1,23 @@
-<tipo>(<alcance>): <emoji> <resumen corto>
+<tipo>(<alcance>): <resumen corto>
 
 # --- GUÍA DE TIPOS ---
-# 🚀 feat:     Nueva funcionalidad
-# 🛠 fix:      Corrección de un error
-# ⚡ improve:  Mejora de rendimiento o refactor
-# 📝 docs:     Cambios en documentación
-# 🧪 test:     Añadir o corregir pruebas
-# 🏗 build:    Cambios en el sistema de construcción o dependencias
+# 🚀 feat:      Nueva funcionalidad
+# 🛠 fix:       Corrección de un error
+# ⚡ improve:   Mejora de rendimiento o refactor
+# 📝 docs:      Cambios en documentación
+# 🧪 test:      Añadir o corregir pruebas
+# 🏗 build:     Cambios en el sistema de construcción o dependencias
+# 🧹 chore:     Tareas de mantenimiento o limpieza (sin cambios en código/test)
 # ---------------------
 
 # --- EJEMPLOS DE USO ---
-# feat(auth): 🚀 agregar validación de dos factores
-# fix(api): 🛠 corregir error 500 al guardar usuario
-# improve(ui): ⚡ optimizar carga de imágenes en el home
-# docs(readme): 📝 añadir guía de instalación rápida
-# test(login): 🧪 añadir pruebas para contraseña incorrecta
-# build(deps): 🏗 actualizar versión de react a v18
+# feat(auth):  agregar validación de dos factores
+# fix(api):  corregir error 500 al guardar usuario
+# improve(ui):  optimizar carga de imágenes en el home
+# docs(readme):  añadir guía de instalación rápida
+# test(login):  añadir pruebas para contraseña incorrecta
+# build(deps):  actualizar versión de react a v18
+# chore(git):  actualizar el archivo .gitignore
 # ---------------------
 
 # Explicación detallada del "por qué" y "cómo" (opcional):
