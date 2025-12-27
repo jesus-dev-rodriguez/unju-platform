@@ -2,7 +2,7 @@
 name: ⚙️ DoR - Análisis Técnico
 about: [Sello 3] Definición profunda de arquitectura, datos, API y estrategia de implementación.
 title: "[TECH]: "
-labels: "dor:tech-analysis, status: definition"
+labels: "DoR: Análisis Técnico, Estado: Definición"
 assignees: ""
 ---
 
@@ -29,14 +29,3 @@ assignees: ""
 - **Variables:** API_KEY_NEW_SERVICE, REDIS_CACHE_TTL
 - **Dependencias:** [Nuevos paquetes]
 - **Estrategia:** Feature flags + Canary release
-
-### ✅ Validación del Sello (Definition of Ready)
-- [ ] **Modelo de datos** definido
-- [ ] **Contrato API** completo
-- [ ] **Patrones** seleccionados
-- [ ] **Seguridad** configurada
-- [ ] **Performance** optimizada
-- [ ] **Plan de despliegue** listo
-- [ ] **Aprobaciones:** Arquitecto, Tech Lead, DevOps, PO
-
-[ ] **[DoR] Tech Analysis:** Definición de modelos, API, patrones y riesgos completada.
