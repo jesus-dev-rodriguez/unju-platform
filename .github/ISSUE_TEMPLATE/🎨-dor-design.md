@@ -2,7 +2,7 @@
 name: 🎨 DoR - Diseño UI/UX
 about: [Sello 2] Definición de mockups, prototipos y flujos visuales.
 title: "[UX]: "
-labels: "dor:design, status: definition"
+labels: "DoR - Diseño UI/UX, Estado: Definición"
 assignees: ""
 ---
 
@@ -12,5 +12,3 @@ assignees: ""
 
 ### 🔄 Descripción del Flujo
 ### 📱 Consideraciones Responsive y Accesibilidad
-### 🛡️ Validación del Sello (Definition of Ready)
-- [ ] **[DoR] Design:** Definición de UI/UX, mockups y flujos completada.
